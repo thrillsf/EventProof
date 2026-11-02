@@ -1,0 +1,30 @@
+{
+  "eventName": {
+    "value": "TechEquity Ai Summit 2026: Talks + Workshops + Hackathon, Ft Google, Nvidia, DeepMind, Snowflake and more",
+    "sourceQuote": "TechEquity Ai Summit 2026: Talks + Workshops + Hackathon, Ft Google, Nvidia, DeepMind, Snowflake and more"
+  },
+  "date": {
+    "value": "November 3–6, 2026",
+    "sourceQuote": "8:30 AM - Nov 6, 5:00 PM"
+  },
+  "startTime": {
+    "value": "8:30 AM",
+    "sourceQuote": "8:30 AM - Nov 6, 5:00 PM"
+  },
+  "endTime": {
+    "value": "5:00 PM",
+    "sourceQuote": "8:30 AM - Nov 6, 5:00 PM"
+  },
+  "timezone": {
+    "value": null,
+    "sourceQuote": null
+  },
+  "venue": {
+    "value": "Snowflake Silicon Valley AI Hub (SVAI)",
+    "sourceQuote": "Venue: Snowflake Silicon Valley AI Hub (SVAI)"
+  },
+  "streetAddress": {
+    "value": "8th Floor at 135 Constitution Dr. Menlo Park, CA 94025",
+    "sourceQuote": "Address: 8th Floor at 135 Constitution Dr. Menlo Park, CA 94025"
+  }
+}
